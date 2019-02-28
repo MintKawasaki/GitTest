@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
         try {Thread.sleep(3000);} catch (Exception e) {}
         Toast.makeText(getApplicationContext(),"ijkl",Toast.LENGTH_SHORT).show();
         try {Thread.sleep(3000);} catch (Exception e) {}
+        Toast.makeText(getApplicationContext(),"1234",Toast.LENGTH_SHORT).show();
+        try {Thread.sleep(3000);} catch (Exception e) {}
         Toast.makeText(getApplicationContext(),"mnop",Toast.LENGTH_SHORT).show();
         try {Thread.sleep(3000);} catch (Exception e) {}
         Toast.makeText(getApplicationContext(),"qrst",Toast.LENGTH_SHORT).show();
